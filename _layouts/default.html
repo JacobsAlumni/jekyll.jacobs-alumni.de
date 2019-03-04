@@ -1,0 +1,26 @@
+---
+layout: compress
+---
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="viewport" content="width=device-width" />
+
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="keywords" content="{{ site.keywords }}" />
+
+    <link rel="icon" type="image/png" href="{{ site.mediaUrl }}favicon.png" />
+  </head>
+  <body>
+    {% include cookie.html %}
+
+    {{ content }}
+    
+    <script src="/dist/jquery/jquery-3.3.1.min.js"></script>
+    <script src="/dist/cookielaw/cookielaw.js"></script>  
+  </body>
+</html>

@@ -1,2 +1,7 @@
-# done.jacobs-alumni.de
-A minimalist rework of jacobs-alumni.de
+# JacobsAlumniWebsite
+A [Jekyll](https://jekyllrb.com) version of the of the Jacobs University Alumni Organisation Website.  
+
+## Building
+```
+  jekyll serve
+```
