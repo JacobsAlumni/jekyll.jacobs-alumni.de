@@ -24,6 +24,21 @@ defaults:
       path: ""
     values:
       layout: default
-      menu_hidden: false
-      menu_order: 100
-      external: false
+
+# the menu
+menu:
+  - title: Home
+    url: /
+  - title: Board
+    url: /board/
+  - title: Activities
+    url: /activities/
+  - title: Documents
+    url: /documents/
+  - title: FAQ
+    url: /faq/
+  - title: Contribute
+    url: /contribute/
+  - title: Join
+    external: true
+    url: https://portal.jacobs-alumni.de

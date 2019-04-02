@@ -1,0 +1,64 @@
+{% assign curl = page.url | replace: '/index.html', '' | replace: '.html', '' %}
+{% assign internalmenu = site.menu | where_exp: "item", "item.external != true" %}
+{% assign externalmenu = site.menu | where_exp: "item", "item.external == true" %}
+
+<!-- small screen menu -->
+<div id="offcanvas-menu" uk-offcanvas="mode: push; overlay: true">
+    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+            {% for item in internalmenu %}
+                <li class="{% if curl == item.url %}uk-active{% endif %} hoverable">
+                    <a href="{{item.url}}">{{ item.title }}</a>
+                </li>
+            {% endfor %}
+            <li class="uk-nav-divider"></li>
+            {% for item in externalmenu %}
+                <li class="{% if curl == item.url %}uk-active{% endif %} hoverable">
+                    <a href="{{item.url}}">{{ item.title }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<header>
+    <div class="uk-navbar-container navbar">
+        <nav class="uk-navbar">
+            <!-- logo -->
+            <div class="uk-navbar-left">
+                <a href="/" class="uk-navbar-item uk-logo">
+                    <span class="logo-button uk-margin-small-right">
+                    <img src="/media/favicon.png" />
+                    </span>
+                    <span class="uk-visible">Jacobs Alumni Association</span>
+                </a>
+            </div>
+            <div class="uk-navbar-right">
+                
+                <!-- large screen menu -->
+                <ul class="uk-navbar-nav uk-visible@l">
+                    {% for item in internalmenu %}
+                        <li class="{% if curl == item.url %}uk-active{% endif %} hoverable">
+                            <a href="{{item.url}}">{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+
+                {% for item in externalmenu %}
+                    <div class="uk-navbar-item uk-visible@l">
+                        <a href="{{item.url}}" class="uk-button uk-button-primary uk-button-external bg-transparent uk-text-primary">
+                            {{ item.title }}
+                        </a>
+                    </div>
+                {% endfor %}
+
+                <div class="uk-navbar-item uk-hidden@l">
+                    <a href="#" class="uk-navbar-toggle uk-navbar-toggle-icon uk-icon uk-hidden@l" uk-toggle="target: #offcanvas-menu" uk-icon="menu">
+                        Menu
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+

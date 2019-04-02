@@ -1,0 +1,118 @@
+---
+---
+
+@charset 'UTF-8';
+
+
+
+// changes in the pp
+span.ppchange, div.ppchange {
+  background-color: yellow;
+}
+
+// Variable modifiers
+
+// Base font size
+$bfs: 16px;
+// Base Line Height
+$blh: 1.618;
+
+$sansFont: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $sansFont: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $sansFont: "Antic Slab", Arial, Helvetica, sans-serif;
+$serifFont: "Antic Slab", Arial, Helvetica, sans-serif;
+
+// $darkblue: #0a3264;
+$darkblue: rgb(8,73,131);
+$lightblue: #00b1ec;
+
+$white: #FFFFFF;
+$darkgrey: #161616;
+$mediumgrey: #747474;
+$lightgrey: #E5E5E5;
+
+$global-primary-background: $darkblue;
+$global-link-color: $darkblue;
+$global-font-family: $sansFont;
+$navbar-nav-item-color: $darkblue;
+$navbar-nav-item-hover-color: $darkblue;
+
+@import "uikit/variables";
+@import "uikit/variables-theme";
+@import "uikit/mixins-theme";
+@import "uikit/uikit-theme";
+
+.main-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* navbar + large menu */
+.uk-navbar-container.navbar {
+  background: $white !important;
+  border-bottom: $darkblue solid 0.1rem;
+}
+
+.uk-button-external {
+  border-radius: 500px !important;
+  border: 1px solid #084983 !important;
+  background-color: transparent !important;
+}
+
+.hoverable:hover {
+  text-decoration: underline;
+}
+
+/* inlines */
+
+
+/* embeds */
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+
+/** the footer */
+.alumni-socials { 
+  text-align: right;
+}
+
+.alumni-socials > a {
+  color: white !important;
+}
+
+.alumni-socials > a:hover {
+  color: rgba(255,255,255,.8) !important;
+}
+
+.bg-facebook {
+  background: #3b5998 !important;
+}
+
+.bg-twitter {
+  background: #1da1f2 !important;
+}
+
+.bg-instagram {
+  background: #405de6 !important;
+}
+
+.bg-linkedin {
+  background: #0077b5 !important;
+}
