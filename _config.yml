@@ -14,8 +14,8 @@ exclude:
     - '*/README.md'
     - 'LICENSE'
 
-# URL to use for media
-mediaUrl: /media/
+# Google Analytics
+googleAnalyticsID: "UA-136384959-1"
 
 # default values -- the one for all **must** be first
 defaults:
