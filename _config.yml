@@ -25,6 +25,11 @@ defaults:
     values:
       layout: default
 
+
+plugins:
+- jekyll-redirect-from
+
+
 # the menu
 menu:
   - title: Home
