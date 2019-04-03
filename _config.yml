@@ -47,4 +47,7 @@ menu:
     url: /contribute/
   - title: Join
     external: true
-    url: https://portal.jacobs-alumni.de
+    url: https://portal.jacobs-alumni.de/
+  - title: Login
+    external: true
+    url: https://portal.jacobs-alumni.de/portal/
