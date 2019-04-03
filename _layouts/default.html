@@ -19,7 +19,7 @@ layout: compress
 
     {% include ga.html %}
   </head>
-  <body>
+  <body{%if page.nocopy %} oncontextmenu="return false; " style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; "{% endif%}>
 
     {% include header.html %}
 
