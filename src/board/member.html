@@ -1,0 +1,44 @@
+{% comment %}
+member: Board member being represented
+{% endcomment %}
+
+<div>
+  <div class="uk-card uk-card-default">
+    {% if include.member.photoUrl %}
+      <div class="uk-card-media-top square-box">
+        <img style="height: auto; " class="uk-width-1-1 square-content" src="/{{include.member.photoUrl}}" alt="{{include.member.name}}" />
+      </div>
+    {% endif %}
+    
+    <div class="uk-card-body">
+      <h3 class="uk-card-title"> {{ include.member.name }}</h3>
+      <p class="uk-article-meta">{{ include.member.role }}</p>
+
+      <div class="alumni-socials alumni-socials-card">
+          {% if include.member.meta.email %}
+            <a class="uk-icon-button bg-mediumgrey" href="mailto:{{ include.member.meta.email }}" uk-icon="mail"></a>
+          {% endif %}
+
+          {% if include.member.meta.facebook %}
+            <a class="uk-icon-button bg-facebook" target="_blank" href="{{ include.member.meta.facebook }}" uk-icon="facebook"></a>
+          {% endif %}
+
+          {% if include.member.meta.twitter %}
+            <a class="uk-icon-button bg-twitter" target="_blank" href="{{ include.member.meta.twitter }}" uk-icon="twitter"></a>
+          {% endif %}
+
+          {% if include.member.meta.instagram %}
+            <a class="uk-icon-button bg-instagram" target="_blank" href="{{ include.member.meta.instagram }}" uk-icon="instagram"></a>
+          {% endif %}
+
+          {% if include.member.meta.linkedin %}
+            <a class="uk-icon-button bg-linkedin" target="_blank" href="{{ include.member.meta.linkedin }}" uk-icon="linkedin"></a>
+          {% endif %}
+      </div>
+
+      <div>
+        {{ include.member.description | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>

@@ -13,6 +13,7 @@ encoding: utf-8
 exclude:
     - '*/README.md'
     - 'LICENSE'
+    - 'src/board/member.html'
 
 # Google Analytics
 googleAnalyticsID: "UA-136384959-1"
