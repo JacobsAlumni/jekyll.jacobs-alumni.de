@@ -1,6 +1,7 @@
 ---
 title: Imprint / Impressum
-permalink: '/imprint/'
+permalink: '/documents/imprint/'
+redirect_from: '/imprint/'
 ---
 
 Jacobs University Bremen Alumni Association e.V.  
