@@ -14,7 +14,6 @@ span.ppchange, div.ppchange {
 
 // Base font size
 $bfs: 16px;
-// Base Line Height
 $blh: 1.618;
 
 $sansFont: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -45,6 +44,32 @@ $navbar-nav-item-hover-color: $darkblue;
 .main-container {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+/* global styles */
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: geometricPrecision;
+  -moz-osx-font-smoothing: grayscale;
+
+  white-space: normal;
+  word-wrap: break-word;
+
+  // max-width: 100%;
+  // width: 100%;
+}
+
+html, body, input, textarea, button {
+  padding: 0;
+  margin: 0;
+
+  color: $darkgrey;
+}
+
+html {
+  height: 100%;
 }
 
 /* navbar + large menu */
