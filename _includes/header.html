@@ -3,7 +3,7 @@
 {% assign externalmenu = site.menu | where_exp: "item", "item.external == true" %}
 
 <!-- small screen menu -->
-<div id="offcanvas-menu" uk-offcanvas="mode: push; overlay: true">
+<div id="offcanvas-menu" uk-offcanvas>
     <div class="uk-offcanvas-bar uk-flex uk-flex-column">
         <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
             {% for item in internalmenu %}
