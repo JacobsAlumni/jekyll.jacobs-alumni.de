@@ -1,9 +1,8 @@
 ---
-title: Contribute
-permalink: /contribute/
+title: Get Involved
+permalink: /get-involved/
 redirect_from: /donate/
 ---
-
 
 ## Why Donate?
 

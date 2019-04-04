@@ -39,15 +39,17 @@ menu:
     url: /board/
   - title: Homecoming
     url: /homecoming/
+  - title: Chapters
+    url: /chapters/
+  - title: Get involved
+    url: /get-involved/
   - title: Documents
     url: /documents/
   - title: FAQ
     url: /faq/
-  - title: Contribute
-    url: /contribute/
   - title: Join
     external: true
     url: https://portal.jacobs-alumni.de/
-  - title: Login
+  - title: Alumni Portal
     external: true
     url: https://portal.jacobs-alumni.de/portal/
