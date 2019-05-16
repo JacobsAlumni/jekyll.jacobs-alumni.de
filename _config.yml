@@ -15,6 +15,9 @@ exclude:
     - 'LICENSE'
     - 'src/board/member.html'
 
+collections:
+  - faqs
+
 # Google Analytics
 googleAnalyticsID: "UA-136384959-1"
 
