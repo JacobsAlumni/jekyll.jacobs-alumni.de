@@ -42,7 +42,7 @@ var linkifyAnchors = function (level, containingElement) {
     var headers = containingElement.getElementsByTagName("h" + level);
     for (var h = 0; h < headers.length; h++) {
         var header = headers[h];
-        if (hasClass(header, 'uk-card-title') || hasClass(header, 'uk-article-title')) {
+        if (hasClass(header, 'uk-card-title') || hasClass(header, 'uk-article-title') || hasClass(header, 'nolink')) {
             continue;
         }
         
