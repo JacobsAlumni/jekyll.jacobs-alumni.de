@@ -15,11 +15,22 @@ redirect_from: /alumni-board/
   {% endfor %}
 </div>
 
-## Associate Advisors to the Board
+<h2>Associate Advisors to the Board</h2>
 
 <!-- TODO: Check if these are still advisors -->
-<div class="uk-grid uk-grid-small uk-child-width-1-1@s uk-child-width-1-3@m " uk-grid>
+<div class="uk-grid uk-grid-small uk-child-width-1-1@s uk-child-width-1-3@m" uk-grid>
   {% for advisor in site.data.advisors %}
     {% include_relative member.html member=advisor %}
   {% endfor %}
+</div>
+
+<h2>Old Board Members</h2>
+
+<div class="uk-grid uk-grid-small uk-child-width-1-1@s uk-child-width-1-3@m" uk-grid>
+{% assign sorted = site.data.oldmembers | sort: 'name' %}
+
+{% for member in sorted %}
+  {% capture order %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% include_relative oldmember.html member=member order=order %}
+{% endfor %}
 </div>

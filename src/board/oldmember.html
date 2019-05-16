@@ -1,0 +1,26 @@
+{% comment %}
+member: Old member being represented
+order: Either 'odd' or 'even'
+{% endcomment %}
+
+<div>
+    <div class="uk-card uk-card-{% if order == 'odd' %}primary{% else %}secondary{% endif %}">
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">{{ member.name }}</h3>
+            <p>
+                <ul class="uk-list uk-list-striped">
+                    {% for role in member.roles %}
+                        <li>
+                            {{role.title}}, 
+                            {% if role.from == role.to %}
+                                {{role.from}}
+                            {% else %}
+                                {{role.from}} - {{role.to}}
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            </p>
+        </div>
+    </div>
+</div>
