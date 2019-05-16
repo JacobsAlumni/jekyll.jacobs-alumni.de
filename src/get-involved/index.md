@@ -1,56 +1,66 @@
 ---
 title: Get Involved
 permalink: /get-involved/
-redirect_from: /donate/
 ---
 
-## Why Donate?
+The easiest way to get involved is to __vote__ in elections and at the General Assembly to shape the future of the Association!
+Check our [Charter](/documents/charter/english/) to learn more. 
+If you would like to donate your time and expertise, you can find several more ways to participate below. 
 
-The Jacobs University Bremen Alumni Association e.V. is a non-profit organisation that works on membership fees and donations. 
-The membership costs go towards the administrative costs of the association for instance, the costs of organising Homecoming. ]
-Donations are multipurpose: they go towards the annual scholarship handed out at the Homecoming Gala Dinner and to cover running costs of the association. 
-By granting an annual scholarship, the JAA does not only help create the next generation of Jacobs students, it also establishes its presence as an influential shareholder of the university. 
-This enables the Association to have an impact on the future path that Jacobs University Bremen will take.
+### Mentoring Program
 
-We are also looking into other causes that you can support as well as new ways for you to make a difference through.
-If you have any ideas, feel free to reach out to us at [fundraising@jacobs-alumni.de](mailto:fundraising@jacobs-alumni.de)
+__What is it?__
 
-### How can you make a difference?
+The Mentoring Program connects current Jacobs students (mentees) and Jacobs Alumni (mentors). In a semi-structured program spanning ~11 months, alumni contribute their experience and time to students and provide advice in different areas of life after Jacobs. 
 
-Donations to the Association can be made in several different ways.
-You can pick the cause you would like to donate to and that’s exactly where your donation will go!
+__How do I get involved?__
 
-#### Donate to the Annual Alumni Scholarship (Click to redirect to payment methods)
+Check the Mentor box in your Alumni Portal account or e-mail the Jacobs Career Services Coordinator Christin Klähn at [c.klaehn@jacobs-university.de](mailto:c.klaehn@jacobs-university.de). 
 
-Every year, a candidate based on financial need, merit, social engagement and their full profile is granted an Alumni scholarship amounting to currently xxx EUR. Hear from the Scholarship Recipient of 2017.
-If you reside in the United States, please donate to the JUFA Alumni Fund.
-Donate button
+### Chapters
 
-#### Donate while you shop on Amazon!
+(To be written)
 
-- Simply go to [https://smile.amazon.de](https://smile.amazon.de)
-- Pick `Jacobs University Bremen Alumni Association e.V.` as the organization that you would like to support.
-- Now just continue shopping!
-- If you shop, in the product description under the price, it should say qualifies for Amazon
-Smile.
-- Simply buy what you need and Amazon donates 0.5% or sometimes a slightly different percentage of what you spend to the Association.
-No extra fees are incurred on your purchase!
+### Alumni Portal Development
 
-#### Donate while booking your trips or shopping! Wecanhelp.de
+__What is it?__
 
-- Go to the website: [wecanhelp.de](https://wecanhelp.de) (Yes, it is all in German but you can easily follow the instructions).
-- Click on `Einkaufen` and the list of shops will appear.
-- You have to switch off your Adblocker or pause it for this purchase.
-- Click on the online store you want to purchase from. Popular choices include Booking.com,
-Deutsche Bahn and even IKEA. You can also use the search button and look for your favorite
-products or shops out of the 1,726 partner shops!
-- Click on `Zum Shop` and you will be forwarded to the store of your choice.
-And now just book, order, or SHOP TILL YOU DROP!
-The prices will remain the same whether you book directly from the store or go through the
-wecanhelp.de link.
-A percentage of what you buy will be donated by the shops to our Alumni Scholarship Fund!
-You will be helping a prospective student fund their Jacobs education.
+All our technical infrastructure has been developed and is being maintained by dedicated alumni volunteers. Our current Assessor for IT, Tom Wiesing, is always grateful for feedback or other volunteers to share the work with.
 
+__How do I get involved?__
 
+Get in contact with Tom at [twiesing@jacobs-alumni.de](mailto:twiesing@jacobs-alumni.de)! 
 
+### Starducks
 
+__What is it?__
+
+The Starducks initiative links up admitted students with our alumni all across the globe, and gives them a chance to talk to you and discover Jacobs University over coffee. 
+
+__How do I get involved?__
+
+Contact Cristina Trifon-Calvopina at [c.calvopina@jacobs-university.de](mailto:c.calvopina@jacobs-university.de).
+
+### Events for Alumni by Alumni
+
+__What is it?__
+
+With this initiative we want to tap into the great talent and experience Jacobs Alumni have to offer. Alumni share their knowledge with fellow alumni at a workshop or other event.
+
+__How do I get involved?__
+
+Send us your event ideas (whether you want to volunteer for it or just want to share an idea about a potential topic or alumni speaker) at [board@jacobs-alumni.de](mailto:board@jacobs-alumni.de).  
+
+### Jacobs Career Fair
+
+__What is it?__
+
+The annual Jacobs Career Fair is not just a place for established companies but also for our own alumni start-ups to present themselves to Jacobs students. Share your entrepreneurial spirit with the younger generations or make connections with other exhibitors. Do you have a startup, and are interested in recruiting Jacobs talent, while networking with a variety of other companies? Join us at the Fair! Alumni startups get the Silver Package (worth 850 EUR) for free. Plus all companies that find out about the Fair via our alumni network get a 20% discount from any package.  Alumni Association members receive a free Silver package (worth 850€) to take part in the fair. 
+
+__How do I get involved?__
+
+Contact Daisy Juknischke-Heinsen at [d.heinsen@jacobs-university.de](mailto:d.heinsen@jacobs-university.de) to participate as exhibitor or alumni guest.
+
+### Success Stories
+
+Want to share a __success story__? Tell us at [alumni@jacobs-university.de](mailto:alumni@jacobs-university.de), get featured in the newsletter and inspire fellow alumni! 
