@@ -19,7 +19,20 @@ Check the Mentor box in your Alumni Portal account or e-mail the Jacobs Career S
 
 ### Chapters
 
-(To be written)
+__What is it?__
+
+Chapters are little Jacobs bubbles all over the world. 
+Led by usually two alumni, they connect Jacobs Alumni in one city/region or with a common interest, providing a platform to ask questions, meet up, reconnect, and help each other.
+There are three types of alumni chapters: local chapters, club chapters, subject chapters.
+At the moment, most chapters are organized as Facebook or WeChat groups. 
+
+__How do I get involved?__
+
+Check out the page on [Alumni Chapters](/chapters/) for more detailed information.
+Most Alumni Chapters can be joined by searching on Facebook for "Jacobs Alumni Chapter ...".
+If you do not find your chapter - or even would like to found your own one - get in touch with the [Assessor for Network Development](/board/) of the Alumni Board. 
+
+
 
 ### Alumni Portal Development
 
@@ -29,7 +42,7 @@ All our technical infrastructure has been developed and is being maintained by d
 
 __How do I get involved?__
 
-Get in contact with Tom at [twiesing@jacobs-alumni.de](mailto:twiesing@jacobs-alumni.de)! 
+Get in contact with the [Assessor for Information Technology](/board/) of the Alumni Board. 
 
 ### Starducks
 
