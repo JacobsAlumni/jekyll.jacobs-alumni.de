@@ -15,12 +15,12 @@ You can pick the cause you would like to donate to and that’s exactly where yo
 We are also looking into other causes that you can support as well as new ways for you to make a difference through.
 If you have any questions or ideas do not hesitate to reach out via email to [fundraising@jacobs-alumni.de](mailto:fundraising@jacobs-alumni.de). 
 
-### Donate to the Annual Alumni Scholarship (Click to redirect to payment methods)
+### Donate to the Annual Alumni Scholarship
 
 Every year, a candidate based on financial need, merit, social engagement and their full profile is granted an Alumni scholarship amounting to currently 9,000 EUR. 
 Take a look at the [2018 Scholarship Recipient](https://www.jacobs-university.de/news/alumni-scholarship-kazakhstan-bremen). 
 
-<!-- there is no clear donate button -->
+If you reside in the United States, please donate to the [JUFA Alumni Fund](http://www.jacobs-university-foundation.org/ronny-wells-scholarship.html) instead. 
 
 ### Donate while you shop on Amazon!
 
