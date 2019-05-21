@@ -4,15 +4,17 @@ permalink: /donate/
 ---
 
 The Jacobs University Bremen Alumni Association e.V. is a non-profit organisation that works on membership fees and donations. 
-The membership costs go towards the administrative costs of the association for instance, the costs of organising Homecoming. 
+The membership costs go towards the administrative costs of the association. 
 
 Donations are multipurpose: they go towards the annual scholarship handed out at the Homecoming Gala Dinner and to cover running costs of the association. 
 By granting an annual scholarship, the JAA does not only help create the next generation of Jacobs students, it also establishes its presence as an influential shareholder of the university. 
 This enables the Association to have an impact on the future path that Jacobs University Bremen will take.
 
+As the Alumni Association is a non-profit, all donations and membership fees can be deducted from (German and some other) taxes - if you require a receipt simply [contact us](mailto:support@jacobs-alumni.de).
+
 Donations to the Association can be made in several different ways.
 You can pick the cause you would like to donate to and that’s exactly where your donation will go!
-We are also looking into other causes that you can support as well as new ways for you to make a difference through.
+We are also looking into other causes that you can support as well as new ways for you to make a difference.
 If you have any questions or ideas do not hesitate to reach out via email to [fundraising@jacobs-alumni.de](mailto:fundraising@jacobs-alumni.de). 
 
 ### Donate to the Annual Alumni Scholarship
