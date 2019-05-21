@@ -19,6 +19,9 @@ order: Either 'odd' or 'even'
                             {% endif %}
                         </li>
                     {% endfor %}
+                    {% if member.roles.size == 1 %}
+                        <li>&nbsp;</li>
+                    {% endif %}
                 </ul>
             </p>
         </div>
