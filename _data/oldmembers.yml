@@ -40,9 +40,9 @@
       to: 2017
 - name: Iliana Heucke
   roles:
-    - title: TBA
-      from: 0000
-      to: 0000
+    - title:
+      from: 
+      to: 
 - name: Irina Shames
   roles:
     - title: Vice President
