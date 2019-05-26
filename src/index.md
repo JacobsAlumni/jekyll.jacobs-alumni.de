@@ -1,5 +1,6 @@
 ---
 permalink: /
+redirect_from: /alumni-association/
 ---
 
 <figure class="uk-width-1-1">
