@@ -15,7 +15,7 @@ The Mentoring Program connects current Jacobs students (mentees) and Jacobs Alum
 
 __How do I get involved?__
 
-Check the Mentor box in your Alumni Portal account or e-mail the Jacobs Career Services Coordinator Christin Klähn at [c.klaehn@jacobs-university.de](mailto:c.klaehn@jacobs-university.de). 
+Check the Mentor box in your Alumni Portal account or e-mail the Jacobs Career Services Coordinator (currently Christin Klähn) at [csc@jacobs-university.de](mailto:csc@jacobs-university.de). 
 
 ### Chapters
 
@@ -52,6 +52,7 @@ The Starducks initiative links up admitted students with our alumni all across t
 
 __How do I get involved?__
 
+<!-- TODO: We need to have a general email here -->
 Contact Cristina Trifon-Calvopina at [c.calvopina@jacobs-university.de](mailto:c.calvopina@jacobs-university.de).
 
 ### Events for Alumni by Alumni
@@ -72,7 +73,7 @@ The annual Jacobs Career Fair is not just a place for established companies but 
 
 __How do I get involved?__
 
-Contact Daisy Juknischke-Heinsen at [d.heinsen@jacobs-university.de](mailto:d.heinsen@jacobs-university.de) to participate as exhibitor or alumni guest.
+Contact the Alumni Relations Office, currently filled by Daisy Juknischke-Heinsen, at [alumni@jacobs-university.de](mailto:alumni@jacobs-university.de) to participate as exhibitor or alumni guest.
 
 ### Success Stories
 

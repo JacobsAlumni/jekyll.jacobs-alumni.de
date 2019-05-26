@@ -1,0 +1,9 @@
+{% comment %}
+    This snippet prints the name of the current vice president
+{% endcomment %}
+
+{% for member in site.data.board %}
+    {% if member.role == "Vice President" %}
+        {{member.name}}
+    {% endif %}
+{% endfor %}

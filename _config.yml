@@ -14,6 +14,13 @@ exclude:
     - '*/README.md'
     - 'LICENSE'
     - 'src/board/member.html'
+    - 'src/board/oldmember.html'
+    - 'src/imprint/president.html'
+    - 'src/imprint/vice_president.html'
+    - 'src/imprint/treasurer.html'
+    - 'src/imprint/secretary.html'
+    - 'src/imprint/accessors.html'
+
 
 collections:
   - faqs

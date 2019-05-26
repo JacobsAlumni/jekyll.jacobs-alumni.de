@@ -1,0 +1,9 @@
+{% comment %}
+    This snippet prints the name of the current Treasurer
+{% endcomment %}
+
+{% for member in site.data.board %}
+    {% if member.role == "Treasurer" %}
+        {{member.name}}
+    {% endif %}
+{% endfor %}

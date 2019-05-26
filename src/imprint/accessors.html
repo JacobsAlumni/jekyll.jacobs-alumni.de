@@ -1,0 +1,13 @@
+{% comment %}
+    This snippet prints the names of the current accessors, seperated by commas
+{% endcomment %}
+
+{% assign accessors = site.data.board %}
+{% assign accessors = accessors | where_exp:"member", "member.role != 'President'" %}
+{% assign accessors = accessors | where_exp:"member", "member.role != 'Vice President'" %}
+{% assign accessors = accessors | where_exp:"member", "member.role != 'Secretary'" %}
+{% assign accessors = accessors | where_exp:"member", "member.role != 'Treasurer'" %}
+{% assign accessors = accessors | map: "name" | sort %}
+
+
+{{ accessors | join: ", " }}
