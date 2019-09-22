@@ -13,6 +13,16 @@
     - title: Treasurer
       from: 2015
       to: 2015
+- name: Anna-Lena Schindl
+  roles:
+    - title: Network Development
+      from: 2016
+      to: 2019
+- name: Anne Valtink
+  roles:
+    - title: President
+      from: 2016
+      to: 2019
 - name: Beenish Waris
   roles:
     - title: Fundraising
@@ -28,6 +38,11 @@
     - title: Vice President
       from: 2013
       to: 2013
+- name: Elena Isac
+  roles:
+    - title: Special Projects
+      from: 2016
+      to: 2019
 - name: Ewa Grzechnik
   roles:
     - title: Treasurer
@@ -68,6 +83,11 @@
     - title: Public Relations
       from: 2016
       to: 2017
+- name: Max Lohmann
+  roles:
+    - title: Event Management
+      from: 2016
+      to: 2019
 - name: Melanie Wilneder
   roles:
     - title: Secretary
@@ -91,6 +111,11 @@
     - title: Member Management
       from: 2015
       to: 2016
+- name: Răzvan Barabaș
+  roles:
+    - title: Secretary
+      from: 2016
+      to: 2019
 - name: Robert Eckhoff
   roles:
     - title: Special Projects
