@@ -4,7 +4,7 @@ redirect_from: /alumni-association/
 ---
 
 <figure class="uk-width-1-1">
-  <img class="uk-width-1-1" src="/media/people.png" />
+  <img class="uk-width-1-1" src="/media/people_2019_1.png" />
 </figure>
 
 <div class="uk-clearfix">
