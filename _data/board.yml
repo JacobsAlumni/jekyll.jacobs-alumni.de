@@ -36,6 +36,14 @@
   description:
     Sharon Min is new. 
 -
+  name: Ciprian Blindu
+  role: Treasurer
+  photoUrl: media/board/Ciprian_Blindu.jpg
+  meta:
+    email: cblindu@jacobs-alumni.de
+  description:
+    Ciprian Blindu is new.
+-
   name: Cristina Trifon-Calvopiña
   role: Event Management
   photoUrl: media/board/Cristina_Trifon_Calvopina.jpg
@@ -56,13 +64,21 @@
     
     After graduating from Jacobs with a BSc in Information Management and Systems in 2014, she finished her MSc in Business Informatics at the University of Mannheim. At Jacobs, she coordinated the Rotaract Club, was a member of the Stage, Light, Sound Crew, a proud Pulse Express employee and passionate C3 resident. She is currently working as a management consultant in Mannheim, helping customers succeed in their digital transformations in the area of procurement.
 -
-  name: Mohsin Dar
+  name: Nouria Jantz-Naeem
   role: Fundraising
-  photoUrl: media/board/Mohsin_Dar.jpg
+  photoUrl: media/board/Nouria_Jantz-Naeem.jpg
   meta:
-    email: mdar@jacobs-alumni.de
+    email: njantz-naeem@jacobs-alumni.de
   description:
-    Mohsin ('13) studied Logistics Management and Engineering at Jacobs. After graduating, he has been pursuing his career in Supply Chain Consulting. Currently he is leading digital Supply Chain practice at Accenture Germany. He is a new addition to the Alumni board and will be working with his peers on Fundraising. 
+    Nouria Jantz-Naeem is new.
+-
+  name: Franziska Pohle
+  role: Member Management
+  photoUrl: media/board/Franziska_Pohle.jpg
+  meta:
+    email: fpohle@jacobs-alumni.de
+  description:
+    Franziska ('15) is working for academic publisher Elsevier in Amsterdam. She graduated from Jacobs with a BA in International Politics and History and from University of Amsterdam with an MSc in Corporate Communication ('17). At Jacobs, she was Secretary of the Rotaract Club, Section Leader at J-Cappella, and part of the first class that made Nordmetall cool. As Assessor for Member Management, she is looking for ways to make the association attractive for old and new alumni and working on a smooth registration process. 
 -
   name: Tom Wiesing
   role: Information Technology
@@ -74,12 +90,3 @@
     linkedin: https://www.linkedin.com/in/tom-wiesing
   description: 
     Tom ('15, '17) currently pursues a PhD in Computer Science as part of the KWARC research group in Erlangen, Germany. He graduated from Jacobs with a BSc in Applied and Computational Mathematics in 2015. He also received an MSc at Jacobs as part of the first class of Data Engineering in 2017. During his time at Jacobs, he was president of the GSA in the 2016 - 2017 academic year. As Assessor for Information Technology, he will focus on coding and supporting all IT systems of the Alumni, supported by a team of volunteer coders. 
-
--
-  name: Franziska Pohle
-  role: Member Management
-  photoUrl: media/board/Franziska_Pohle.jpg
-  meta:
-    email: fpohle@jacobs-alumni.de
-  description:
-    Franziska ('15) is working for academic publisher Elsevier in Amsterdam. She graduated from Jacobs with a BA in International Politics and History and from University of Amsterdam with an MSc in Corporate Communication ('17). At Jacobs, she was Secretary of the Rotaract Club, Section Leader at J-Cappella, and part of the first class that made Nordmetall cool. As Assessor for Member Management, she is looking for ways to make the association attractive for old and new alumni and working on a smooth registration process. 
