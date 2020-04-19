@@ -17,6 +17,10 @@ You can pick the cause you would like to donate to and that’s exactly where yo
 We are also looking into other causes that you can support as well as new ways for you to make a difference.
 If you have any questions or ideas do not hesitate to reach out via email to [fundraising@jacobs-alumni.de](mailto:fundraising@jacobs-alumni.de). 
 
+### Donate via Spendow
+
+<div class="spendow-i-container2"><iframe src="https://www.spendow.com/JacobsAlumni/shop?embed=1" frameborder="0"></iframe></div><script type="text/javascript" src="https://www.spendow.com/spendow-embed.js"></script>
+
 ### Donate to the Annual Alumni Scholarship
 
 Every year, a candidate based on financial need, merit, social engagement and their full profile is granted an Alumni scholarship amounting to currently 9,000 EUR. 
