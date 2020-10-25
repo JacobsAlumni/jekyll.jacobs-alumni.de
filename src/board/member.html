@@ -34,6 +34,10 @@ member: Board member being represented
           {% if include.member.meta.linkedin %}
             <a class="uk-icon-button bg-linkedin" target="_blank" href="{{ include.member.meta.linkedin }}" uk-icon="linkedin"></a>
           {% endif %}
+
+          {% if include.member.meta.github %}
+            <a class="uk-icon-button bg-github" target="_blank" href="{{ include.member.meta.github }}" uk-icon="github"></a>
+          {% endif %}
       </div>
 
       <div>
